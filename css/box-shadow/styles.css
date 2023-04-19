@@ -1,0 +1,17 @@
+.default{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 2px 8px 2px red;
+}
+
+.multiple {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+}
+
+.inset {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px inset;
+}
